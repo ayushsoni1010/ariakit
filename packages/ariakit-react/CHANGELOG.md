@@ -1,5 +1,10 @@
 # @ariakit/react
 
+## 0.3.7
+
+- Fixed `setSelectionRange` error when used with [unsupported](https://html.spec.whatwg.org/multipage/input.html#concept-input-apply) input types.
+- Updated dependencies: `@ariakit/react-core@0.3.7`
+
 ## 0.3.6
 
 ### Data attributes for duplicate components
